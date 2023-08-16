@@ -6,11 +6,13 @@ import java.util.List;
 
 public class DBConnect {
 
-    public DBConnect() {
+    public DBConnect() {}
+
+    public String getSingleValue(String sql) {
 
     }
 
-    public List<String> connect() {
+    public List<String> getListValues() {
 
         List<String> tableNames = new ArrayList<>();
         try {
@@ -23,7 +25,6 @@ public class DBConnect {
 
             while (resultSet.next()) {
                 tableNames.add(resultSet.getString("table_name"));
-                System.out.println(resultSet.getString("table_name"));
             }
 
         } catch (Exception e) {

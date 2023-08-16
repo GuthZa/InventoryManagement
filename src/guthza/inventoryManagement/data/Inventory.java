@@ -43,7 +43,7 @@ public class Inventory {
 
     @Override
     public String toString() {
-        return " Inventory\n" +
+        return " " + this.name + "\n" +
                 "\t\tItem List -> " + itemList +
                 "\n";
     }

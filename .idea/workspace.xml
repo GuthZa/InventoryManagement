@@ -5,22 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25658511-8d2b-494d-89e4-a158b97b3dbe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InventoryManagementSystem.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/mysql-connector-j-8.1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/guthza/inventoryManagement/InventoryManagement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/guthza/inventoryManagement/controller/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/guthza/inventoryManagement/data/Inventory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/guthza/inventoryManagement/data/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/guthza/inventoryManagement/database/DBConnect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/guthza/inventoryManagement/types/FoodSubTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/guthza/inventoryManagement/types/FoodTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/guthza/inventoryManagement/ui/UI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/ControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InventoryManagementSystem/guthza/inventoryManagement/InventoryManagement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InventoryManagementSystem/guthza/inventoryManagement/InventoryManagement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InventoryManagementSystem/guthza/inventoryManagement/controller/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InventoryManagementSystem/guthza/inventoryManagement/controller/Controller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InventoryManagementSystem/guthza/inventoryManagement/data/Inventory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InventoryManagementSystem/guthza/inventoryManagement/data/Inventory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InventoryManagementSystem/guthza/inventoryManagement/database/DBConnect.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InventoryManagementSystem/guthza/inventoryManagement/database/DBConnect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/guthza/inventoryManagement/InventoryManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/guthza/inventoryManagement/InventoryManagement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/guthza/inventoryManagement/controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/guthza/inventoryManagement/controller/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/guthza/inventoryManagement/data/Inventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/guthza/inventoryManagement/data/Inventory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/guthza/inventoryManagement/database/DBConnect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/guthza/inventoryManagement/database/DBConnect.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +60,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -106,7 +100,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1692180646365</updated>
-      <workItem from="1692180647350" duration="11083000" />
+      <workItem from="1692180647350" duration="12294000" />
     </task>
     <servers />
   </component>

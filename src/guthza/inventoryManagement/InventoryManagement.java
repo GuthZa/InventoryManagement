@@ -27,9 +27,8 @@ public class InventoryManagement {
     public static void main(String[] args) {
 
         DBConnect dbConnect = new DBConnect();
-        List<String> tableName = dbConnect.connect();
+        Controller controller = new Controller(dbConnect);
 
-        Controller controller = new Controller();
-        System.out.println(tableName);
+        controller.printInventories();
     }
 }
